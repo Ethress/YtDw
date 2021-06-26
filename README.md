@@ -19,7 +19,7 @@
 \
 == CONFIG ==
 
- YtDw is using shutil, tkinter and pytube as it's main modules.
+ YtDw is using shutil, tkinter and pytube as it's main modules.\
  To run, install IDE such as Pycharm, paste the desired URL
  then "Start download".
 
@@ -33,8 +33,8 @@
 \
 == CONTACT ==
 
- Contributor: Ethress
- Requires: python 3.6 or higher
+ Contributor: Ethress\
+ Requires: python 3.6 or higher\
  Version: v1.0 BETA
 
 
